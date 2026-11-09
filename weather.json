@@ -1,0 +1,13 @@
+{
+  "Delhi": { "temperature": "30°C", "condition": "Hot and Sunny" },
+  "Mumbai": { "temperature": "28°C", "condition": "Humid with Showers" },
+  "Chennai": { "temperature": "32°C", "condition": "Sunny and Humid" },
+  "Kolkata": { "temperature": "29°C", "condition": "Cloudy with Rain" },
+  "Bengaluru": { "temperature": "24°C", "condition": "Pleasant and Breezy" },
+  "Hyderabad": { "temperature": "31°C", "condition": "Warm and Clear" },
+  "Pune": { "temperature": "26°C", "condition": "Cool and Cloudy" },
+  "Ahmedabad": { "temperature": "33°C", "condition": "Dry and Hot" },
+  "Jaipur": { "temperature": "34°C", "condition": "Sunny and Dry" },
+  "Lucknow": { "temperature": "28°C", "condition": "Partly Cloudy" }
+}
+
